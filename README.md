@@ -40,12 +40,12 @@ Your folder's tree should be the following one starting from the parent file fro
 └─── README.md <br />
 │ <br />
 └─── Environment/ <br />
-│   └─── Off_target_2020.yml <br />
+│    * Off_target_2020.yml <br />
 │ <br />
 └─── Pictures/ <br />
-│   └─── Affinity_1.PNG <br />
-│   └─── Affinity_2.PNG   <br />
-│   └─── ... <br />
+│   * Affinity_1.PNG <br />
+│   * Affinity_2.PNG   <br />
+│   * ... <br />
 │ <br />
 └─── OffPred/ <br />
     └─── MGLTools-1.5.7/ <br />
