@@ -37,6 +37,7 @@ Elsewise, the PATH to the MGLTools1.5.7's folder may be define in the Jupyter No
 Your folder's tree should be the following one starting from the parent file from where you cloned the git.
     
 ./Predicting_Off-Targets/<br />
+│ <br />
 └─── README.md <br />
 │ <br />
 └─── Environment/ <br />
