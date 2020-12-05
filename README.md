@@ -40,22 +40,22 @@ Your folder's tree should be the following one starting from the parent file fro
 └─── README.md <br />
 │ <br />
 └─── Environment/ <br />
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Off_target_2020.yml <br />
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Off_target_2020.yml <br />
 │ <br />
 └─── Pictures/ <br />
-│   * Affinity_1.PNG <br />
-│   * Affinity_2.PNG   <br />
-│   * ... <br />
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Affinity_1.PNG <br />
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Affinity_2.PNG   <br />
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ... <br />
 │ <br />
 └─── OffPred/ <br />
-    └─── MGLTools-1.5.7/ <br />
-    └─── Mes_Molecules/ <br />
-    └─── Mon_Network/ <br />
-    └─── Notebook_Prediction.ipynb <br />
-    └─── prepare_ligand4.py <br />
-    └─── prepare_receptor4.py <br />
-    └─── geneData.json <br />
-    └─── geneStyle.json <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  MGLTools-1.5.7/ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Mes_Molecules/ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Mon_Network/ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Notebook_Prediction.ipynb <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  prepare_ligand4.py <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  prepare_receptor4.py <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  geneData.json <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  geneStyle.json <br />
     
 **5. Launch**
 
