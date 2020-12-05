@@ -1,0 +1,1384 @@
+{
+  "nodes": [
+    {
+      "data": {
+        "id": "ABHD5",
+        "name": "ABHD5",
+        "score": 7.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "medulla oblongata"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_ABHD5"
+    },
+    {
+      "data": {
+        "id": "HNF4A",
+        "name": "HNF4A",
+        "score": 7.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "colon"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_HNF4A"
+    },
+    {
+      "data": {
+        "id": "SOD2",
+        "name": "SOD2",
+        "score": 16.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "tricuspid valve"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_SOD2"
+    },
+    {
+      "data": {
+        "id": "SLC5A7",
+        "name": "SLC5A7",
+        "score": 36.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "pineal body"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_SLC5A7"
+    },
+    {
+      "data": {
+        "id": "EPHX2",
+        "name": "EPHX2",
+        "score": 180.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "duodenum"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_EPHX2"
+    },
+    {
+      "data": {
+        "id": "CAT",
+        "name": "CAT",
+        "score": 117.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "kidney"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_CAT"
+    },
+    {
+      "data": {
+        "id": "CYP2J2",
+        "name": "CYP2J2",
+        "score": 71.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "pulmonary valve"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_CYP2J2"
+    },
+    {
+      "data": {
+        "id": "CYP2C9",
+        "name": "CYP2C9",
+        "score": 5.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "brain"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_CYP2C9"
+    },
+    {
+      "data": {
+        "id": "CYP2C8",
+        "name": "CYP2C8",
+        "score": 9.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "brain"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_CYP2C8"
+    },
+    {
+      "data": {
+        "id": "SOD1",
+        "name": "SOD1",
+        "score": 1392.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "heart left ventricle"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_SOD1"
+    },
+    {
+      "data": {
+        "id": "PLIN1",
+        "name": "PLIN1",
+        "score": 160.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "bone marrow"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_PLIN1"
+    },
+    {
+      "data": {
+        "id": "AGXT",
+        "name": "AGXT",
+        "score": 1.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "brain"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_AGXT"
+    },
+    {
+      "data": {
+        "id": "UBE2N",
+        "name": "UBE2N",
+        "score": 106.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "parietal lobe"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_UBE2N"
+    },
+    {
+      "data": {
+        "id": "GSTK1",
+        "name": "GSTK1",
+        "score": 87.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "colon"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_GSTK1"
+    },
+    {
+      "data": {
+        "id": "PLIN5",
+        "name": "PLIN5",
+        "score": 44.0,
+        "query": true,
+        "type": "Protein",
+        "organ": "submandibular gland"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_PLIN5"
+    },
+    {
+      "data": {
+        "id": "ZINC150357800",
+        "name": "ZINC150357800",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_ZINC150357800"
+    },
+    {
+      "data": {
+        "id": "Pavetannin B6",
+        "name": "Pavetannin B6",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_Pavetannin B6"
+    },
+    {
+      "data": {
+        "id": "ZINC196939367",
+        "name": "ZINC196939367",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_ZINC196939367"
+    },
+    {
+      "data": {
+        "id": "ZINC575229172",
+        "name": "ZINC575229172",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_ZINC575229172"
+    },
+    {
+      "data": {
+        "id": "Gallomyricitrin",
+        "name": "Gallomyricitrin",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_Gallomyricitrin"
+    },
+    {
+      "data": {
+        "id": "2'-O-Galloylquercitrin",
+        "name": "2'-O-Galloylquercitrin",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_2'-O-Galloylquercitrin"
+    },
+    {
+      "data": {
+        "id": "Hydroxyritonavir",
+        "name": "Hydroxyritonavir",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_Hydroxyritonavir"
+    },
+    {
+      "data": {
+        "id": "2-Desisopropyl-2-ethyl-Ritonavir",
+        "name": "2-Desisopropyl-2-ethyl-Ritonavir",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_2-Desisopropyl-2-ethyl-Ritonavir"
+    },
+    {
+      "data": {
+        "id": "ZINC150346438",
+        "name": "ZINC150346438",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_ZINC150346438"
+    },
+    {
+      "data": {
+        "id": "ZINC257355033",
+        "name": "ZINC257355033",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_ZINC257355033"
+    },
+    {
+      "data": {
+        "id": "ZINC150339279",
+        "name": "ZINC150339279",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_ZINC150339279"
+    },
+    {
+      "data": {
+        "id": "Mls001116157",
+        "name": "Mls001116157",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_Mls001116157"
+    },
+    {
+      "data": {
+        "id": "Hms2534f24",
+        "name": "Hms2534f24",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_Hms2534f24"
+    },
+    {
+      "data": {
+        "id": "Ergokryptine",
+        "name": "Ergokryptine",
+        "score": 300,
+        "query": true,
+        "type": "Chemical",
+        "organ": "Chemistry"
+      },
+      "position": {
+        "x": 481.0169597039117,
+        "y": 384.8210888234145
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "fn10273 fn6944 fn9471 fn10569 fn8023 fn6956 fn6935 fn8147 fn6939 fn6936 fn6629 fn7928 fn6947 fn8612 fn6957 fn8786 fn6246 fn9367 fn6945 fn6946 fn10024 fn10022 fn6811 fn9361 fn6279 fn6278 fn8569 fn7641 fn8568 fn6943",
+      "id": "data_Ergokryptine"
+    },
+    {
+      "data": {
+        "source": "2'-O-GALLOYLQUERCITRIN",
+        "target": "EPHX2",
+        "weight": 18.64,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_2'-O-GALLOYLQUERCITRIN_EPHX2"
+    },
+    {
+      "data": {
+        "source": "MLS001116157",
+        "target": "UBE2N",
+        "weight": 10.741,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_MLS001116157_UBE2N"
+    },
+    {
+      "data": {
+        "source": "MLS001116157",
+        "target": "SLC5A7",
+        "weight": 4.88847,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_MLS001116157_SLC5A7"
+    },
+    {
+      "data": {
+        "source": "MLS001116157",
+        "target": "PLIN1",
+        "weight": 1.706,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_MLS001116157_PLIN1"
+    },
+    {
+      "data": {
+        "source": "MLS001116157",
+        "target": "ABHD5",
+        "weight": 1.378,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_MLS001116157_ABHD5"
+    },
+    {
+      "data": {
+        "source": "MLS001116157",
+        "target": "PLIN5",
+        "weight": 1.378,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_MLS001116157_PLIN5"
+    },
+    {
+      "data": {
+        "source": "MLS001116157",
+        "target": "HNF4A",
+        "weight": 3.27,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_MLS001116157_HNF4A"
+    },
+    {
+      "data": {
+        "source": "CAT",
+        "target": "CYP2J2",
+        "weight": 0.17,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CAT_CYP2J2"
+    },
+    {
+      "data": {
+        "source": "CAT",
+        "target": "CYP2C8",
+        "weight": 0.188,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CAT_CYP2C8"
+    },
+    {
+      "data": {
+        "source": "CAT",
+        "target": "CYP2C9",
+        "weight": 0.29,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CAT_CYP2C9"
+    },
+    {
+      "data": {
+        "source": "CAT",
+        "target": "GSTK1",
+        "weight": 0.326,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CAT_GSTK1"
+    },
+    {
+      "data": {
+        "source": "CAT",
+        "target": "AGXT",
+        "weight": 0.384,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CAT_AGXT"
+    },
+    {
+      "data": {
+        "source": "CAT",
+        "target": "EPHX2",
+        "weight": 0.395,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CAT_EPHX2"
+    },
+    {
+      "data": {
+        "source": "CAT",
+        "target": "SOD1",
+        "weight": 0.937,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CAT_SOD1"
+    },
+    {
+      "data": {
+        "source": "CAT",
+        "target": "SOD2",
+        "weight": 0.968,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CAT_SOD2"
+    },
+    {
+      "data": {
+        "source": "CYP2C9",
+        "target": "CYP2C8",
+        "weight": 0.921,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CYP2C9_CYP2C8"
+    },
+    {
+      "data": {
+        "source": "CYP2C9",
+        "target": "CYP2J2",
+        "weight": 0.733,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CYP2C9_CYP2J2"
+    },
+    {
+      "data": {
+        "source": "CYP2C9",
+        "target": "EPHX2",
+        "weight": 0.5,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CYP2C9_EPHX2"
+    },
+    {
+      "data": {
+        "source": "SOD1",
+        "target": "EPHX2",
+        "weight": 0.295,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_SOD1_EPHX2"
+    },
+    {
+      "data": {
+        "source": "SOD1",
+        "target": "GSTK1",
+        "weight": 0.349,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_SOD1_GSTK1"
+    },
+    {
+      "data": {
+        "source": "SOD1",
+        "target": "SOD2",
+        "weight": 0.959,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_SOD1_SOD2"
+    },
+    {
+      "data": {
+        "source": "AGXT",
+        "target": "CYP2C8",
+        "weight": 0.06,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_AGXT_CYP2C8"
+    },
+    {
+      "data": {
+        "source": "AGXT",
+        "target": "SOD2",
+        "weight": 0.062,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_AGXT_SOD2"
+    },
+    {
+      "data": {
+        "source": "AGXT",
+        "target": "GSTK1",
+        "weight": 0.123,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_AGXT_GSTK1"
+    },
+    {
+      "data": {
+        "source": "AGXT",
+        "target": "EPHX2",
+        "weight": 0.432,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_AGXT_EPHX2"
+    },
+    {
+      "data": {
+        "source": "CYP2J2",
+        "target": "CYP2C8",
+        "weight": 0.785,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CYP2J2_CYP2C8"
+    },
+    {
+      "data": {
+        "source": "CYP2J2",
+        "target": "EPHX2",
+        "weight": 0.657,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CYP2J2_EPHX2"
+    },
+    {
+      "data": {
+        "source": "CYP2C8",
+        "target": "EPHX2",
+        "weight": 0.481,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_CYP2C8_EPHX2"
+    },
+    {
+      "data": {
+        "source": "EPHX2",
+        "target": "SOD2",
+        "weight": 0.203,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_EPHX2_SOD2"
+    },
+    {
+      "data": {
+        "source": "EPHX2",
+        "target": "GSTK1",
+        "weight": 0.484,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_EPHX2_GSTK1"
+    },
+    {
+      "data": {
+        "source": "GSTK1",
+        "target": "SOD2",
+        "weight": 0.402,
+        "group": "spd",
+        "networkId": 1230,
+        "networkGroupId": 24,
+        "intn": true,
+        "rIntnId": 594,
+        "id": "e592"
+      },
+      "position": {},
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbed": false,
+      "grabbable": true,
+      "classes": "",
+      "id": "data_GSTK1_SOD2"
+    }
+  ]
+}
