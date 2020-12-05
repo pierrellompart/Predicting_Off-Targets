@@ -35,50 +35,27 @@ Elsewise, the PATH to the MGLTools1.5.7's folder may be define in the Jupyter No
 **4. Verify your folder's tree**
 
 Your folder's tree should be the following one starting from the parent file from where you cloned the git.
-
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "```\n",
-    "project/\n",
-    "│   readme.md\n",
-    "│\n",
-    "└───input/\n",
-    "│       input.csv\n",
-    "│   \n",
-    "└───notebooks/\n",
-    "│       exploration.ipynb\n",
-    "│   \n",
-    "└───code/\n",
-    "│       __init__.py\n",
-    "│       utils.py\n",
-    "│   \n",
-    "└───data/\n",
-    "        train.csv\n",
-    "        test.csv\n",
-    "```"
-   ]
-  }
-    
     
 ./Predicting_Off-Targets
-+-- README.md
-+-- Environment/
-    +-- Off_target_2020.yml
-+-- Pictures/
-    +-- Affinity_1.PNG
-    +-- Affinity_2.PNG  
-    +-- ...
-+-- OffPred/
-    +-- MGLTools-1.5.7/
-    +-- Mes_Molecules/
-    +-- Mon_Network/
-    +-- Notebook_Prediction.ipynb
-    +-- prepare_ligand4.py
-    +-- prepare_receptor4.py
-    +-- geneData.json
-    +-- geneStyle.json
+└─── README.md
+│
+└─── Environment/
+│   └─── Off_target_2020.yml
+│
+└─── Pictures/
+│   └─── Affinity_1.PNG
+│   └─── Affinity_2.PNG  
+│   └─── ...
+│
+└─── OffPred/
+    └─── MGLTools-1.5.7/
+    └─── Mes_Molecules/
+    └─── Mon_Network/
+    └─── Notebook_Prediction.ipynb
+    └─── prepare_ligand4.py
+    └─── prepare_receptor4.py
+    └─── geneData.json
+    └─── geneStyle.json
     
 **5. Launch**
 
