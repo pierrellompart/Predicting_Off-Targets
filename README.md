@@ -37,25 +37,25 @@ Elsewise, the PATH to the MGLTools1.5.7's folder may be define in the Jupyter No
 Your folder's tree should be the following one starting from the parent file from where you cloned the git.
     
 ./Predicting_Off-Targets
-└─── README.md
-│
-└─── Environment/
-│   └─── Off_target_2020.yml
-│
-└─── Pictures/
-│   └─── Affinity_1.PNG
-│   └─── Affinity_2.PNG  
-│   └─── ...
-│
-└─── OffPred/
-    └─── MGLTools-1.5.7/
-    └─── Mes_Molecules/
-    └─── Mon_Network/
-    └─── Notebook_Prediction.ipynb
-    └─── prepare_ligand4.py
-    └─── prepare_receptor4.py
-    └─── geneData.json
-    └─── geneStyle.json
+└─── README.md <br />
+│ <br />
+└─── Environment/ <br />
+│   └─── Off_target_2020.yml <br />
+│ <br />
+└─── Pictures/ <br />
+│   └─── Affinity_1.PNG <br />
+│   └─── Affinity_2.PNG   <br />
+│   └─── ... <br />
+│ <br />
+└─── OffPred/ <br />
+    └─── MGLTools-1.5.7/ <br />
+    └─── Mes_Molecules/ <br />
+    └─── Mon_Network/ <br />
+    └─── Notebook_Prediction.ipynb <br />
+    └─── prepare_ligand4.py <br />
+    └─── prepare_receptor4.py <br />
+    └─── geneData.json <br />
+    └─── geneStyle.json <br />
     
 **5. Launch**
 
