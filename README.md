@@ -36,6 +36,32 @@ Elsewise, the PATH to the MGLTools1.5.7's folder may be define in the Jupyter No
 
 Your folder's tree should be the following one starting from the parent file from where you cloned the git.
 
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```\n",
+    "project/\n",
+    "│   readme.md\n",
+    "│\n",
+    "└───input/\n",
+    "│       input.csv\n",
+    "│   \n",
+    "└───notebooks/\n",
+    "│       exploration.ipynb\n",
+    "│   \n",
+    "└───code/\n",
+    "│       __init__.py\n",
+    "│       utils.py\n",
+    "│   \n",
+    "└───data/\n",
+    "        train.csv\n",
+    "        test.csv\n",
+    "```"
+   ]
+  }
+    
+    
 ./Predicting_Off-Targets
 +-- README.md
 +-- Environment/
