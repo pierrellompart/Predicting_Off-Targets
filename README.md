@@ -18,10 +18,11 @@ Prediction of off target proteins using protein networks, docking and pharmacoph
 
 To prepare the ligands and proteins to pdbqt format using the AutoDock Tools protocol, MDLTools1.5.7 needs to be installed in the ./OffPred folder.<br />
 
-To do so, the file is located [here](http://mgltools.scripps.edu/downloads "here"), you may be carefull with your OS and version.<br />
+To do so, the file is located [here](http://mgltools.scripps.edu/downloads/mgltools-1-5-7rc1g "here"), on the Official website, you may be carefull with your OS and version.<br />
+However, I strongly advise to download [my version](https://drive.google.com/drive/folders/1ZFq1tq_aBB-ZmOC7s1HlIEEFO218Q366?usp=sharing "my version") if you are on Windowsk.
 
 Once MGLTools1.5.7 is installed, move the MGLTools1.5.7's folder inside the ./OffPred folder if you doesn't want to define the PATH.<br />
-Elsewise, the PATH to the MGLTools1.5.7's folder may be define in the Jupyter Notebook.<br />
+Elsewise, the PATH to the MGLTools1.5.7's folder may be define in the Jupyter Notebook by changing some lines.<br />
 
 3. Creation of the environement  
 
