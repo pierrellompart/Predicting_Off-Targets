@@ -10,7 +10,7 @@ Prediction of off target proteins using protein networks, docking and pharmacoph
   
 1. Cloning the repository in a folder:
 
-> git clone https://github.com/pierrellompart/Off-Target-Prediction.git
+> git clone https://github.com/pierrellompart/Predicting_Off-Targets.git
 
 > cd ./Off-Target-Prediction
 
