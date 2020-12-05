@@ -24,7 +24,7 @@ However, I strongly advise to download [my version](https://drive.google.com/dri
 Once MGLTools1.5.7 is installed, move the MGLTools1.5.7's folder inside the ./OffPred folder if you doesn't want to define the PATH.<br />
 Elsewise, the PATH to the MGLTools1.5.7's folder may be define in the Jupyter Notebook by changing some lines.<br />
 
-3. Creation of the environement  
+**3. Creation of the environement**
 
 > conda env create -f ./Environment/Off_target_2020.yml
 
@@ -32,7 +32,29 @@ Elsewise, the PATH to the MGLTools1.5.7's folder may be define in the Jupyter No
 
 > conda env list
 
-4. Launch
+**4. Verify your folder's tree**
+
+Your folder's tree should be the following one starting from the parent file from where you cloned the git.
+
+./Predicting_Off-Targets
++-- README.md
++-- Environment/
+    +-- Off_target_2020.yml
++-- Pictures/
+    +-- Affinity_1.PNG
+    +-- Affinity_2.PNG  
+    +-- ...
++-- OffPred/
+    +-- MGLTools-1.5.7/
+    +-- Mes_Molecules/
+    +-- Mon_Network/
+    +-- Notebook_Prediction.ipynb
+    +-- prepare_ligand4.py
+    +-- prepare_receptor4.py
+    +-- geneData.json
+    +-- geneStyle.json
+    
+**5. Launch**
 
 > cd ./OffPred
 > jupyter notebook
