@@ -12,7 +12,7 @@ Prediction of off target proteins using protein networks, docking and pharmacoph
 
 > git clone https://github.com/pierrellompart/Predicting_Off-Targets.git
 
-> cd ./Off-Target-Prediction
+> cd ./Predicting_Off-Targets
 
 2. Installation of MGLTools1.5.7:
 
